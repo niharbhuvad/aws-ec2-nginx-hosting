@@ -90,3 +90,21 @@ Open browser:
 ```bash
 http://your-public-ip
 ```
+---
+## 🎯 Learning Outcomes
+
+  - Basic Linux server management  
+  - Installing and managing services using systemctl  
+  - Nginx web server configuration  
+  - AWS EC2 instance deployment
+  - Security group firewall configuration
+  - Hosting static websites on cloud infrastructure
+  
+---
+## 🔮 Future Improvements
+
+  - Add HTTPS using Let's Encrypt  
+  - Configure custom domain  
+  - Automate deployment using CI/CD  
+  - Dockerize Nginx setup  
+  - Add monitoring and logging
